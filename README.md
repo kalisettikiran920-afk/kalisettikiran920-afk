@@ -35,4 +35,4 @@ You can explore my work and data analytics projects in the repositories on my Gi
 ## 🔗 Connect With Me
 
 LinkedIn:  
-https://www.linkedin.com/in/kalisetti-kiran
+https://www.linkedin.com/in/kalisetti-kiran-2370922b1
