@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Kiran Kalisetti 👋
 
-<!--
-**kalisettikiran920-afk/kalisettikiran920-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+📊 Interested in Business and Data Analytics  
+🛠 Building end-to-end data analytics projects using SQL, Python, Power BI, and Excel.
 
-Here are some ideas to get you started:
+I am a Computer Science student with a strong interest in business and data analytics. I enjoy working with data to discover patterns, generate insights, and support data-driven decision making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently learning and building projects using tools such as **SQL, Python, Power BI, and Excel**.
+
+You can explore my work and data analytics projects in the repositories on my GitHub profile.
+
+---
+
+## 🛠 Skills & Tools
+
+- SQL  
+- Python  
+- Power BI  
+- Excel  
+- Data Analysis  
+- Data Visualization  
+
+---
+
+## 🎯 Areas of Interest
+
+- Data Analytics  
+- Business Intelligence  
+- Data Warehousing  
+- Data Visualization  
+
+---
+
+## 🔗 Connect With Me
+
+LinkedIn:  
+https://www.linkedin.com/in/kalisetti-kiran
